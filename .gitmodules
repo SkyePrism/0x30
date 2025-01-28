@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "hugo-cat"]
+	path = hugo-cat
+	url = https://github.com/httpsecure/hugo-cat
+[submodule "hugo-theme-hello-friend-ng"]
+	path = hugo-theme-hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng

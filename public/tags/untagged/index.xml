@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on 0x30</title>
+    <link>//localhost:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on 0x30</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 07 Jul 2024 23:10:15 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Tour of HID</title>
+      <link>//localhost:1313/posts/a-tour-of-hid/</link>
+      <pubDate>Sun, 07 Jul 2024 23:10:15 +0100</pubDate>
+      <guid>//localhost:1313/posts/a-tour-of-hid/</guid>
+      <description>Introduction HID stands for Human Interface Device. It&amp;rsquo;s a device class definition to replace PS/2, was designed for USB but is bus-agnostic.</description>
+    </item>
+  </channel>
+</rss>
