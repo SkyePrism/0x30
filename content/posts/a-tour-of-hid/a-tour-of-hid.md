@@ -4,6 +4,7 @@ date: 2025-01-29T22:21:15+01:00
 draft: false
 toc: true
 images:
+  - /images/HIDUsage.png
 tags:
   - HID
 ---
@@ -70,7 +71,7 @@ This HID report looks intimidating at first, so let's break this down.
 
 ## Analyzing the first three rows of this HID report
 
-![HID Usage](HIDUsage.png)
+![HID Usage](/images/HIDUsage.png)
 
 
 ### 0x05, 0x0d
