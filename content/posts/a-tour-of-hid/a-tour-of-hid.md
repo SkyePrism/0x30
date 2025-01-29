@@ -71,7 +71,7 @@ This HID report looks intimidating at first, so let's break this down.
 
 ## Analyzing the first three rows of this HID report
 
-![HID Usage](/images/HIDUsage.png)
+![HID Usage](images/HIDUsage.png)
 
 
 ### 0x05, 0x0d
@@ -107,7 +107,7 @@ Simply open up the HUT and CTRL+F to find 0x0D, which takes us to the Digitizers
 
 Let's keep reading. Our next line in the HID report is 0x09, translating to 0000 10 01, meaning we have 1 byte of type local item, and tag 0000. If we follow the same process outlined above, we can see that the ``Device Class Definition for HID 1.11`` section ``6.2.2.8`` telling us that 0000 tag for a Local Item (10) means that we are about to read a "usage". Our usage is 0x04, and when moving to the HID Usage Tables Digitizers Page section, we can see that 0x04 is defined as a Touch Screen.
 
-####0xa1, 0x01
+### 0xa1, 0x01
 
 One last time. Let's see what 0xA1 is in binary form; it's 1010 00 01.
 
