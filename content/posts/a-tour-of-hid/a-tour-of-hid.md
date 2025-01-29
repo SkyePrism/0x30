@@ -71,7 +71,7 @@ This HID report looks intimidating at first, so let's break this down.
 
 ## Analyzing the first three rows of this HID report
 
-![HID Usage](images/HIDUsage.png)
+![HID Usage](/images/HIDUsage.png)
 
 
 ### 0x05, 0x0d

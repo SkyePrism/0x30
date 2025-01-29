@@ -1,8 +1,7 @@
-baseurl      = "0x30.dev"
-title        = "0x30"
+baseURL = "0x30.dev"
 languageCode = "en-gb"
-theme        = "hugo-theme-hello-friend-ng"
-paginate     = 10
+title = "0x30"
+theme = "hello-friend-ng"
 
 [params]
   dateform        = "Jan 2, 2006"
