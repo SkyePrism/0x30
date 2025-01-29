@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>0x30.dev/</loc>
     <lastmod>2025-01-29T22:21:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hid/</loc>
+    <loc>0x30.dev/tags/hid/</loc>
     <lastmod>2025-01-29T22:21:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/a-tour-of-hid/a-tour-of-hid/</loc>
+    <loc>0x30.dev/posts/parse-hid-descriptor/parse-hid-descriptor/</loc>
     <lastmod>2025-01-29T22:21:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>0x30.dev/posts/</loc>
     <lastmod>2025-01-29T22:21:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>0x30.dev/tags/</loc>
     <lastmod>2025-01-29T22:21:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>0x30.dev/blog/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>0x30.dev/series/</loc>
   </url>
 </urlset>

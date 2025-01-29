@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 0x30</title>
-        <link>//localhost:1313/posts/</link>
+        <link>0x30.dev/posts/</link>
         <description>Recent content in Posts on 0x30</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 29 Jan 2025 22:21:15 +0100</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="0x30.dev/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>How to parse a HID report descriptor</title>
-            <link>//localhost:1313/posts/a-tour-of-hid/a-tour-of-hid/</link>
+            <link>0x30.dev/posts/parse-hid-descriptor/parse-hid-descriptor/</link>
             <pubDate>Wed, 29 Jan 2025 22:21:15 +0100</pubDate>
             
-            <guid>//localhost:1313/posts/a-tour-of-hid/a-tour-of-hid/</guid>
+            <guid>0x30.dev/posts/parse-hid-descriptor/parse-hid-descriptor/</guid>
             <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;HID stands for &lt;strong&gt;H&lt;/strong&gt;uman &lt;strong&gt;I&lt;/strong&gt;nterface &lt;strong&gt;D&lt;/strong&gt;evice. It&amp;rsquo;s a device class definition to replace PS/2, was designed for USB but is bus-agnostic.&lt;/p&gt;
 &lt;p&gt;The HID specification specifies the structure of hid reports, which will be sent from the &lt;em&gt;device&lt;/em&gt; (probably your microcontroller) to the &lt;em&gt;host&lt;/em&gt; (probably a PC).&lt;/p&gt;
