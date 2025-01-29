@@ -68,12 +68,12 @@ A HID report is structured like so:
 
 This HID report looks intimidating at first, so let's break this down.
 
-### Analyzing the first three rows of this HID report
+## Analyzing the first three rows of this HID report
 
 ![HID Usage](HIDUsage.png)
 
 
-#### 0x05, 0x0d
+### 0x05, 0x0d
 
 The first byte describes the tag, type, and size of the rest of the data in the line.
 
@@ -102,17 +102,17 @@ Next up, let's read our data section. Thankfully, it's only 1 byte, which has th
 
 Simply open up the HUT and CTRL+F to find 0x0D, which takes us to the Digitizers Page.
 
-#### 0x09, 0x04
+### 0x09, 0x04
 
 Let's keep reading. Our next line in the HID report is 0x09, translating to 0000 10 01, meaning we have 1 byte of type local item, and tag 0000. If we follow the same process outlined above, we can see that the ``Device Class Definition for HID 1.11`` section ``6.2.2.8`` telling us that 0000 tag for a Local Item (10) means that we are about to read a "usage". Our usage is 0x04, and when moving to the HID Usage Tables Digitizers Page section, we can see that 0x04 is defined as a Touch Screen.
 
-#### 0xa1, 0x01
+####0xa1, 0x01
 
 One last time. Let's see what 0xA1 is in binary form; it's 1010 00 01.
 
 Again we will have 1 byte of data (0b01), this time the type will be a Main Item (0b00), and our tag is 1010 (Looking in ``6.2.2.4 Main Items`` of the ``Device Class Definition for HID 1.11``, we can see that this means collection). Also in this section, describes that a collection with data byte 0x01 (which is what we have) is an "Application" type collection.
 
-# References
+## References
 
 Please see:
 - [Device Class Definition for HID 1.11](https://www.usb.org/sites/default/files/hid1_11.pdf)
