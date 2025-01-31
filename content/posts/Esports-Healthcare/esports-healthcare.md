@@ -54,7 +54,7 @@ In addition to nutrition, ensure you are getting enough sleep to be at the top o
 
 Lastly, mental health can also be an important factor when considering your video game performance. Mental health issues, if not treated properly, can lead to negative effects in all areas of life, including gaming. "Improving our mental health should be a lifelong process because it affects the way we perform, our level of happiness, and whether or not we can thrive in everyday life." [3]
 
-For people who cannot afford a licensed therapist to help them with their mental health concerns, it is still important to learn about mental health and explore yourself on a deeper than surface level. (https://www.youtube.com/channel/UClHVl2N3jPEbkNJVx-ItQIQ">HealthyGamerGG produces a ton of content that has helped me, about video games and non-video game related topics. He uses gaming terminology and analogies to make it easier to understand the concepts he teaches.
+For people who cannot afford a licensed therapist to help them with their mental health concerns, it is still important to learn about mental health and explore yourself on a deeper than surface level. [HealthyGamerGG](https://www.youtube.com/channel/UClHVl2N3jPEbkNJVx-ItQIQ) produces a ton of content that has helped me, about video games and non-video game related topics. He uses gaming terminology and analogies to make it easier to understand the concepts he teaches.
 
 [Here](https://esportshealthcare.com/video-games-and-mental-health) is another helpful article from esportshealthcare.com about mental health for gamers.
 
