@@ -1,6 +1,6 @@
 ---
 title: "How to parse a HID report descriptor"
-date: 2025-01-29T22:21:15+01:00
+date: 2025-01-29T22:21:15
 draft: false
 toc: true
 images:
