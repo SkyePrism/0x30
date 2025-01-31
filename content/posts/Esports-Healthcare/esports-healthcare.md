@@ -41,7 +41,6 @@ To prevent these injuries, you should in general keep your chair at a height whi
 
 Hand and wrist injuries can also be prevented by [a variety of stretches](https://esportshealthcare.com/hand-and-wrist-health) that you can easily to in a matter of minutes within each day.
 
-
 ## Nutrition and Sleep
 
 Many gamers can forget about nutrition, although it's super important to think about, especially when it comes to maintaining energy levels while playing games for long periods of time, and extending the period of your life in which you are healthy enough to play video games competently. With proper education about nutrition, you can improve what you eat overall without sacrificing foods you enjoy.

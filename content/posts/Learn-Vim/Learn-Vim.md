@@ -3,6 +3,8 @@ title: "Learn Vim"
 date: 2019-07-01T19:15:06
 draft: false
 toc: true
+images:
+    - /images/neovim.png
 tags:
     - Vim
     - Text Editors
@@ -23,9 +25,6 @@ The advantages to using vim might not be obvious, but I'll list a few:
 2. Vim is a fully configurable, modifiable text editor which can be transformed into an IDE-like experience with full syntax highlighting, error checking, debugging experience with terminal integration, file trees, you name it! Vim probably has it. I'll show an image of my fully configured neovim below this list, and I'll link to my neovim config at the bottom of this page.
 3. You can experience a boost in efficiency like no other. There are hundreds, maybe thousands of time savers that you can learn in vim. You can be really fast with just the basic few commands, but once you start combining those keystrokes into more complex variations on commands, you get to be extremely efficient and fast at editing text. It took weeks, even months for me to get where I am today, but I can say safely that I am much faster at editing in vim than I ever was editing in a regular IDE or text editor.
 4. Vim is extremely light weight and fast! It opens in less than half a second and runs in a terminal, meaning you don't even have to leave your terminal to enter vim. It's right there are your fingertips.
-
-
-<img src="/assets/neovim.png">
 
 First of all, I recommend just using neovim right out of the gate. Vim stands for vi improved, and vi is the predecessor to vim. Neovim is to vim like vim is to vi. Neovim has many improvements and QOL changes to vim that just make life better and easier.
 
