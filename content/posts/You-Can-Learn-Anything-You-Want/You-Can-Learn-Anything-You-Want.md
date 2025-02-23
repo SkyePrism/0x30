@@ -1,6 +1,6 @@
 ---
 title: "You can learn anything you want."
-date: 2025-23-02T18:30:06
+date: 2025-02-23T18:30:06
 draft: false
 toc: true
 images:
