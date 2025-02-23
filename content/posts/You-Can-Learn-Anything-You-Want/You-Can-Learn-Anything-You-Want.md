@@ -17,8 +17,12 @@ Yep, anything at all
 Some people think that they are not intelligent or smart enough to do something, that they need to have some essential quality in their brain
 that allows them to begin reading a book or practicing a subject that they are interested in.
 
-You are not a fixed thing with some essential set of qualities that determines what you can and cannot do. Your interests can be the thing that defines 
-what you want to do, instead of your self-perception of your lack of skill.
+Yes, your experiences and abilities are affected by who you are, how your brain works, etc. However:
+
+You are not *only* made up of an essential set of qualities that determines what you can and cannot do. 
+Your interests can be *a large part* of what defines what you are able to do, instead of your self-perception of your lack of skill. The qualities that affect your 
+ability to learn can surely get in the way of your learning, however that doesn't mean that your attempts to learn things are in vain. You may learn at a slower pace, 
+but ultimately with time spent learning, you can surprise yourself with how well you can progress at what you're practicing.
 
 You might argue that some people seem God-like in their ability to do something. Yes, some people are savants, but they are very rare. If you see someone 
 who is very good at something, then in all likelihood, they have simply practiced a lot, and had many many revelations along their journey of learning their craft.
