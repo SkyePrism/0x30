@@ -19,6 +19,7 @@ Tiktok and Twitter are ruining our attention spans and sapping our ability to ta
 By what mechanism? You might be asking. These platforms are built from the ground up to:
 1. Be short-form
 2. Foster as much engagement as possible
+
 Contrast these qualities to, for example, a blog/article/research paper/book. These types of mediums are built so that the reader stays engaged with the content, and they are long form which encourages full exploration of the idea at hand. This allows nuance in the writing, and encourages the writer to think of the best way to explain concepts to a general audience.
 
 This is opposed to the short-form social media platforms, which boost posts which cause outrage in a reader, and endless back and forth angry messages between different readers. This ultimately leads to everyone in the comment section of said post being angry and not learning much at all. Not only that, but the attention span it took to read/watch said post is astronomically small compared to for example reading a book or a blog post, meaning that a typical user of these platforms will have an ever decreasing attention span.
