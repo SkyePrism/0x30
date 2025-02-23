@@ -10,7 +10,7 @@ tags:
     - Education
 ---
 
-# Yep, anything at all
+Yep, anything at all
 
 ## You're not dumb, and they're not smart
 
