@@ -87,4 +87,4 @@ I feel like I'm getting really comfortable flying through the terminal, I learne
 that I'm really enjoying. In fact, if I went back to Windows, I'm unsure if I would want to stay on Windows.
 
 You go back to your friend and say, and say "thanks, I really enjoy Linux now. And although it was hard for me to learn, even painful 
-at times, it really helped me broaden my perspective." Your friend replies "Hah, no problem, but have you heard of NixOS?"
+at times, it really helped me broaden my perspective." Your friend replies "Yeah but have you heard of NixOS?"
