@@ -30,7 +30,7 @@ thought out question.
 
 The tone of the "Don't Ask to Ask" website is an angry tone, which has material and historical reasoning. The tone comes from 
 a resentment of askers who have burned many of the asked in these servers in the past. For example, some askers have been 
-malicious or lazy later on in a discussion where the asked is providing unpaid, volunteered labour in order to help the asked.
+malicious or lazy later on in a discussion where the asked is providing unpaid, volunteered labour in order to help the asker.
 
 Asking to ask often causes nobody to reply to the asker, leaving the asker feeling ignored by the community of helpers. 
 The reason they are ignored is because, helpers in these communities don't want to commit themselves to answering a question 
