@@ -23,7 +23,7 @@ In this blog we will explore all points raised, and come to some conclusion and 
 ["Don't Ask to Ask"](https://dontasktoask.com/) is a statement uttered by individuals participating in question/answer type communities (which we'll 
 refer to as "The asked" from this point forward) which addresses a desire by the asked for "the asker" (the person asking 
 a question to the asked) to properly formulate their query before presenting their question to the asked. (An example of 
-what I'm talking about can be found at ["Don't Ask to Ask"](https://dontasktoask.com/).
+what I'm talking about can be found at ["Don't Ask to Ask"](https://dontasktoask.com/).)
 
 The "Don't Ask to Ask" website is often linked so that the asked doesn't have to repeat their desire to be asked a well 
 thought out question.
