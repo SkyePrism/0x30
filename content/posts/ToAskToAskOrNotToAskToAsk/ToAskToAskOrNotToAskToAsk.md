@@ -28,6 +28,15 @@ what I'm talking about can be found at ["Don't Ask to Ask"](https://dontasktoask
 The "Don't Ask to Ask" website is often linked so that the asked doesn't have to repeat their desire to be asked a well 
 thought out question.
 
+The tone of the "Don't Ask to Ask" website is an angry tone, which has material and historical reasoning. The tone comes from 
+a resentment of askers who have burned many of the asked in these servers in the past. For example, some askers have been 
+malicious or lazy later on in a discussion where the asked is providing unpaid, volunteered labour in order to help the asked.
+
+Asking to ask often causes nobody to reply to the asker, leaving the asker feeling ignored by the community of helpers. 
+The reason they are ignored is because, helpers in these communities don't want to commit themselves to answering a question 
+that they might not be able to answer; therefore, they do not reply at all. They have limited energy to volunteer their help, 
+and so will only speak to askers if they feel they are definitely able to help them.
+
 ## The Counter-Argument
 
 It could be argued, that linking that website, or telling someone not to ask to ask, can be a form of "Second Guessing". 
@@ -36,7 +45,7 @@ asker doesn't already know about how to form better questions i.e. it assumes th
 a question that is not fully formed.
 
 Their true intentions, motivations, or ability to form questions in a way that the askers of the community they're in prefer, 
-are unknown by the asked. This is second guessing certain qualities about the asker, which should've been inferred before 
+are unknown by the asked. This is second guessing certain qualities about the asker, which should've been worked out before 
 the asked sent the link.
 
 For example, the asker could be in the mindset that "asking to ask" ***is the polite thing to do***.
@@ -67,10 +76,11 @@ about question etiquette may cause them to be discouraged, and quit learning abo
 
 There are many solutions to both problems that I will list here:
 
-- Proper question etiquette should be in the server rules, which the user must agree to before joining the Q&A server.
 - The asked should step lightly when guiding users to proper comment etiquette, maybe telling a user something like 
 "Hello! A lot of people here know about Linux, if you post your question and some thing's you've tried already to 
 remedy your issue, someone who knows about Linux will probably be happy to help you out!" - This solution will 
 address the problems on both sides of the equation; both the askers etiquette and the asked's desire to see fully 
 formulated questions before committing to helping a user.
+- There could be a different website other than the "Don't Ask To Ask" website, which is linked instead. The new 
+website should reflect the tone in solution #1. Similarly, this could be an embed instead of a website link.
 
