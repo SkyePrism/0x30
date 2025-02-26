@@ -46,7 +46,7 @@ could make the asker feel like they're currently in a hostile environment, surro
 therefore cause their desire to learn Linux to decrease. They may even leave the server and quit learning about Linux 
 right there and then, assuming that the community must be hostile.
 
-Finally, [Incognizance and Linux](anticipate or predict (https://crittercorner.space/blog/incognizance-and-linux/) postulates 
+Finally, [Incognizance and Linux](https://crittercorner.space/blog/incognizance-and-linux/) postulates 
 that the asker may not even know what they need to know in order to ask the question properly e.g. "How many times have you had 
 the following happen? A person joins your community and makes a post asking about how to get their WiFi working on Linux. 
 They are new to Linux and they have an .exe file they downloaded somewhere from the internet."
