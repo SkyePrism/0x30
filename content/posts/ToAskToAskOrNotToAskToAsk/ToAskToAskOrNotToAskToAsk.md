@@ -1,6 +1,6 @@
 ---
 title: "To Ask to Ask, or not To Ask to Ask"
-date: 2025-02-26T20:00:00
+date: 2025-02-26T19:53:00
 draft: false
 toc: true
 images:
