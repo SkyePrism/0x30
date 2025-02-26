@@ -30,7 +30,7 @@ thought out question.
 
 ## The Counter-Argument
 
-It could be argued, that when linking that website, or telling someone not to ask to ask, can be a form of "Second Guessing". 
+It could be argued, that linking that website, or telling someone not to ask to ask, can be a form of "Second Guessing". 
 Second guessing is defined as to anticipate or predict (someone's actions or thoughts) by guesswork. It assumes that the 
 asker doesn't already know about how to form better questions i.e. it assumes they are being maliciously lazy by asking 
 a question that is not fully formed.
