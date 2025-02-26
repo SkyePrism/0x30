@@ -76,7 +76,7 @@ about question etiquette may cause them to be discouraged, and quit learning abo
 
 There are many solutions to both problems that I will list here:
 
-- The asked should step lightly when guiding users to proper comment etiquette, maybe telling a user something like 
+- The asked should step lightly when guiding users to proper question etiquette, maybe telling a user something like 
 "Hello! A lot of people here know about Linux, if you post your question and some thing's you've tried already to 
 remedy your issue, someone who knows about Linux will probably be happy to help you out!" - This solution will 
 address the problems on both sides of the equation; both the askers etiquette and the asked's desire to see fully 
