@@ -59,7 +59,7 @@ they are supposed to be researching in order to properly formulate their questio
 There are two issues here: on one side, the asked who sends this link or phrase, is expressing their assumption that 
 the asker is more often than not, not putting in their due dilligence or effort in order to properly form a question.
 
-On the other side, the asked might not know that they are supposed to know something in order to properly formulate the question, 
+On the other side, the asker might not know that they are supposed to know something in order to properly formulate the question, 
 they may be under the assumption that it's impolite to directly ask their fully formulated question, and being so direct 
 about question etiquette may cause them to be discouraged, and quit learning about what they're trying to learn about.
 
