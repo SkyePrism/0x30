@@ -43,9 +43,6 @@ Anyway, you see how you've ended up in a horrible situation by solving the sympt
 
 ## Solving the Problem
 
-What is the problem? We must get to the root of it here. The obvious answer is that 
-the problem is, that you're still in bed.
-
 You get out of bed, and immediately, the problem is solved. You left the bed, that's 
 the end of it. No stress induced from the looming consequences of staying in bed another 
 one minute. 
@@ -58,8 +55,8 @@ You had a lot of power in this situation, to get out of bed. You were actually a
 to solve the problem itself, and not just its symptoms.
 
 But I implore you to think of situations you don't have a lot of power in, where you 
-have no choice but to simply solve the symptoms of; situations where can't solve the 
-problem itself, and are therefore dealing with a great about of stress because of the 
+have no choice but to simply solve the symptoms of; situations where you can't solve the 
+problem itself, and are therefore dealing with a great amount of stress because of the 
 consequences of solving the symptoms only.
 
 Think of what you would need to solve such problems. This is an open-ended post because 
