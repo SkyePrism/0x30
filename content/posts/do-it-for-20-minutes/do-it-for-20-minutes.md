@@ -1,6 +1,6 @@
 ---
 title: "Do It For 20 Minutes"
-date: 2025-04-26T10:03:06
+date: 2025-04-26T08:03:06
 draft: false
 toc: true
 images:

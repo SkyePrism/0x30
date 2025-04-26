@@ -1,7 +1,7 @@
 baseURL = "https://0x30.dev/"
 theme = "risotto"
 title = "0x30.dev"
-paginate = 3
+# paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -11,6 +11,9 @@ ignoreErrors = ["error-remote-getjson"]
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 3
 
 [params]
 noindex = false
