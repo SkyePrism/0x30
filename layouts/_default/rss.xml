@@ -5,18 +5,18 @@
   <channel>
     <title>{{ .Site.Title }}</title>
     <link>{{ .Site.BaseURL }}</link>
-    <description>{{ .Site.Params.description }}</description>
-    <language>{{ .Site.Language.Lang }}</language>
+    <description>{{ with .Site.Params.description }}{{ . }}{{ else }}RSS feed for {{ .Site.Title }}{{ end }}</description>
+    <language>{{ .Site.Language.Lang | default "en" }}</language>
     <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</lastBuildDate>
     <atom:link href="{{ .Site.BaseURL }}index.xml" rel="self" type="application/rss+xml"/>
 
-    {{ range first 15 (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ range first 15 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
     <item>
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <guid>{{ .Permalink }}</guid>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
-      <description>{{ .Summary | html }}</description>
+      <description><![CDATA[{{ .Summary }}]]></description>
       <content:encoded><![CDATA[{{ .Content | safeHTML }}]]></content:encoded>
     </item>
     {{ end }}
