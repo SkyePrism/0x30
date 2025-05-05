@@ -48,6 +48,12 @@ url = "https://github.com/SkyePrism?tab=repositories"
     url = "/about/"
     weight = 10
 
+[outputs]
+home = ["html"]
+section = ["html", "rss"]
+taxonomy = ["html"]
+term = ["html"]
+
 [taxonomies]
 category = "categories"
 tag = "tags"
