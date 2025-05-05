@@ -5,3 +5,16 @@
 .page__footer p {
     margin: 0;
 }
+
+.badge {
+	background: #000;
+	border: 3px solid transparent;
+	margin-right: 2px;
+	box-sizing: border-box;
+
+	&:hover,
+	&:focus {
+		background: #222;
+   		border: 2px solid #222;
+	}
+}
