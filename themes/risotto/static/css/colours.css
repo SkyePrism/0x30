@@ -8,10 +8,10 @@
 	--fg: #f3deda;
 	--off-fg: var(--base04);
 	--muted: var(--base03);
-	--link: var(--base0D);
-	--hover: var(--base0C);
+	--link: #b37d7d;
+	--hover: #eed9dc;
 	--highlight: var(--base0A);
 
 	/* Logo */
-	--logo: var(--base0B);
+	--logo: #eed9dc;
 }

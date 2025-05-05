@@ -1,6 +1,6 @@
 ---
 title: "Additive vs Destructive Thinking"
-date: 2025-05-05T12:40:06
+date: 2025-05-05T11:40:06
 draft: false
 toc: true
 images:
