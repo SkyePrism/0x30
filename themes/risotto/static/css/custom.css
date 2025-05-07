@@ -1,1 +1,29 @@
 /* Override this file to customise the theme's CSS for your site */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px;
+}
+
+.gallery > img {
+  height: 200px;
+  width: auto;
+  object-fit: cover; 
+  border: thick solid black;
+}
+
+@media (max-width: 800px) {
+  .gallery {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .gallery > img {
+    width: 100%;
+    max-width: 90vw;
+    height: auto;
+    object-fit: contain;
+  }
+}
